@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+duckduckgo-search
+pymongo
+langgraph
+langgraph-checkpoint-mongodb
+python-dotenv
